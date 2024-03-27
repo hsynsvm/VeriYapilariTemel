@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34607.79
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6-) Diziler (Array)", "6-) Diziler (Array).csproj", "{F2C8EE92-FBE2-42BA-8190-C7D8FDC58F12}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F2C8EE92-FBE2-42BA-8190-C7D8FDC58F12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2C8EE92-FBE2-42BA-8190-C7D8FDC58F12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2C8EE92-FBE2-42BA-8190-C7D8FDC58F12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2C8EE92-FBE2-42BA-8190-C7D8FDC58F12}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8832F9CB-0DC5-4CC8-B7C4-BDBD4B8552F9}
+	EndGlobalSection
+EndGlobal

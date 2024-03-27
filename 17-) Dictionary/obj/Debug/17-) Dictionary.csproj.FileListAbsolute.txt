@@ -1,0 +1,7 @@
+C:\Users\ramse\Desktop\Veri Yapıları\17-) Dictionary\bin\Debug\17-) Dictionary.exe.config
+C:\Users\ramse\Desktop\Veri Yapıları\17-) Dictionary\bin\Debug\17-) Dictionary.exe
+C:\Users\ramse\Desktop\Veri Yapıları\17-) Dictionary\bin\Debug\17-) Dictionary.pdb
+C:\Users\ramse\Desktop\Veri Yapıları\17-) Dictionary\obj\Debug\17-) Dictionary.csproj.AssemblyReference.cache
+C:\Users\ramse\Desktop\Veri Yapıları\17-) Dictionary\obj\Debug\17-) Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\ramse\Desktop\Veri Yapıları\17-) Dictionary\obj\Debug\17-) Dictionary.exe
+C:\Users\ramse\Desktop\Veri Yapıları\17-) Dictionary\obj\Debug\17-) Dictionary.pdb

@@ -1,0 +1,7 @@
+C:\Users\ramse\Desktop\Veri Yapıları\5-) Class II\bin\Debug\5-) Class II.exe.config
+C:\Users\ramse\Desktop\Veri Yapıları\5-) Class II\bin\Debug\5-) Class II.exe
+C:\Users\ramse\Desktop\Veri Yapıları\5-) Class II\bin\Debug\5-) Class II.pdb
+C:\Users\ramse\Desktop\Veri Yapıları\5-) Class II\obj\Debug\5-) Class II.csproj.AssemblyReference.cache
+C:\Users\ramse\Desktop\Veri Yapıları\5-) Class II\obj\Debug\5-) Class II.csproj.CoreCompileInputs.cache
+C:\Users\ramse\Desktop\Veri Yapıları\5-) Class II\obj\Debug\5-) Class II.exe
+C:\Users\ramse\Desktop\Veri Yapıları\5-) Class II\obj\Debug\5-) Class II.pdb

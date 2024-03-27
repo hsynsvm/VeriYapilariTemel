@@ -1,0 +1,7 @@
+C:\Users\ramse\Desktop\Veri Yapıları\10-)  SortedList Uygulama\bin\Debug\10-)  SortedList Uygulama.exe.config
+C:\Users\ramse\Desktop\Veri Yapıları\10-)  SortedList Uygulama\bin\Debug\10-)  SortedList Uygulama.exe
+C:\Users\ramse\Desktop\Veri Yapıları\10-)  SortedList Uygulama\bin\Debug\10-)  SortedList Uygulama.pdb
+C:\Users\ramse\Desktop\Veri Yapıları\10-)  SortedList Uygulama\obj\Debug\10-)  SortedList Uygulama.csproj.AssemblyReference.cache
+C:\Users\ramse\Desktop\Veri Yapıları\10-)  SortedList Uygulama\obj\Debug\10-)  SortedList Uygulama.csproj.CoreCompileInputs.cache
+C:\Users\ramse\Desktop\Veri Yapıları\10-)  SortedList Uygulama\obj\Debug\10-)  SortedList Uygulama.exe
+C:\Users\ramse\Desktop\Veri Yapıları\10-)  SortedList Uygulama\obj\Debug\10-)  SortedList Uygulama.pdb

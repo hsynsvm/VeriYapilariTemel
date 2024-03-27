@@ -1,0 +1,7 @@
+C:\Users\ramse\Desktop\Veri Yapıları\16-) LinkedList\bin\Debug\16-) LinkedList.exe.config
+C:\Users\ramse\Desktop\Veri Yapıları\16-) LinkedList\bin\Debug\16-) LinkedList.exe
+C:\Users\ramse\Desktop\Veri Yapıları\16-) LinkedList\bin\Debug\16-) LinkedList.pdb
+C:\Users\ramse\Desktop\Veri Yapıları\16-) LinkedList\obj\Debug\16-) LinkedList.csproj.AssemblyReference.cache
+C:\Users\ramse\Desktop\Veri Yapıları\16-) LinkedList\obj\Debug\16-) LinkedList.csproj.CoreCompileInputs.cache
+C:\Users\ramse\Desktop\Veri Yapıları\16-) LinkedList\obj\Debug\16-) LinkedList.exe
+C:\Users\ramse\Desktop\Veri Yapıları\16-) LinkedList\obj\Debug\16-) LinkedList.pdb

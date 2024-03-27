@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ramse\\Desktop\\Veri Yap\u0131lar\u0131(Temel Seviye)\\19-) SortedDictionary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ACDA4476-5890-40B9-AB88-73D2F445BC9D}|19-) SortedDictionary.csproj|c:\\users\\ramse\\desktop\\veri yap\u0131lar\u0131(temel seviye)\\19-) sorteddictionary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACDA4476-5890-40B9-AB88-73D2F445BC9D}|19-) SortedDictionary.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ramse\\Desktop\\Veri Yap\u0131lar\u0131(Temel Seviye)\\19-) SortedDictionary\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ramse\\Desktop\\Veri Yap\u0131lar\u0131(Temel Seviye)\\19-) SortedDictionary\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAzwB0AAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T12:46:45.156Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

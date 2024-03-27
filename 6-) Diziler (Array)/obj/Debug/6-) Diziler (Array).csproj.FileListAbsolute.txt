@@ -1,0 +1,7 @@
+C:\Users\ramse\Desktop\Veri Yapıları\6-) Diziler (Array)\bin\Debug\6-) Diziler (Array).exe.config
+C:\Users\ramse\Desktop\Veri Yapıları\6-) Diziler (Array)\bin\Debug\6-) Diziler (Array).exe
+C:\Users\ramse\Desktop\Veri Yapıları\6-) Diziler (Array)\bin\Debug\6-) Diziler (Array).pdb
+C:\Users\ramse\Desktop\Veri Yapıları\6-) Diziler (Array)\obj\Debug\6-) Diziler (Array).csproj.AssemblyReference.cache
+C:\Users\ramse\Desktop\Veri Yapıları\6-) Diziler (Array)\obj\Debug\6-) Diziler (Array).csproj.CoreCompileInputs.cache
+C:\Users\ramse\Desktop\Veri Yapıları\6-) Diziler (Array)\obj\Debug\6-) Diziler (Array).exe
+C:\Users\ramse\Desktop\Veri Yapıları\6-) Diziler (Array)\obj\Debug\6-) Diziler (Array).pdb

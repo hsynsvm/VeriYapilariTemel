@@ -1,0 +1,7 @@
+C:\Users\ramse\Desktop\1-) Veri Yapıları\Veri_Yapilari\bin\Debug\Veri_Yapilari.exe.config
+C:\Users\ramse\Desktop\1-) Veri Yapıları\Veri_Yapilari\bin\Debug\Veri_Yapilari.exe
+C:\Users\ramse\Desktop\1-) Veri Yapıları\Veri_Yapilari\bin\Debug\Veri_Yapilari.pdb
+C:\Users\ramse\Desktop\1-) Veri Yapıları\Veri_Yapilari\obj\Debug\Veri_Yapilari.csproj.AssemblyReference.cache
+C:\Users\ramse\Desktop\1-) Veri Yapıları\Veri_Yapilari\obj\Debug\Veri_Yapilari.csproj.CoreCompileInputs.cache
+C:\Users\ramse\Desktop\1-) Veri Yapıları\Veri_Yapilari\obj\Debug\Veri_Yapilari.exe
+C:\Users\ramse\Desktop\1-) Veri Yapıları\Veri_Yapilari\obj\Debug\Veri_Yapilari.pdb

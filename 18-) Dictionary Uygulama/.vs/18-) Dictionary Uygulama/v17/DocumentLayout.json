@@ -1,0 +1,60 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ramse\\Desktop\\Veri Yap\u0131lar\u0131(Temel Seviye)\\18-) Dictionary Uygulama\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9418D5F3-9259-4996-A36A-03BCF6CA6336}|18-) Dictionary Uygulama.csproj|c:\\users\\ramse\\desktop\\veri yap\u0131lar\u0131(temel seviye)\\18-) dictionary uygulama\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9418D5F3-9259-4996-A36A-03BCF6CA6336}|18-) Dictionary Uygulama.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9418D5F3-9259-4996-A36A-03BCF6CA6336}|18-) Dictionary Uygulama.csproj|c:\\users\\ramse\\desktop\\veri yap\u0131lar\u0131(temel seviye)\\18-) dictionary uygulama\\personel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9418D5F3-9259-4996-A36A-03BCF6CA6336}|18-) Dictionary Uygulama.csproj|solutionrelative:personel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ramse\\Desktop\\Veri Yap\u0131lar\u0131(Temel Seviye)\\18-) Dictionary Uygulama\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ramse\\Desktop\\Veri Yap\u0131lar\u0131(Temel Seviye)\\18-) Dictionary Uygulama\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAuwBgAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T11:20:54.615Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Personel.cs",
+              "DocumentMoniker": "C:\\Users\\ramse\\Desktop\\Veri Yap\u0131lar\u0131(Temel Seviye)\\18-) Dictionary Uygulama\\Personel.cs",
+              "RelativeDocumentMoniker": "Personel.cs",
+              "ToolTip": "C:\\Users\\ramse\\Desktop\\Veri Yap\u0131lar\u0131(Temel Seviye)\\18-) Dictionary Uygulama\\Personel.cs",
+              "RelativeToolTip": "Personel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T11:25:46.33Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

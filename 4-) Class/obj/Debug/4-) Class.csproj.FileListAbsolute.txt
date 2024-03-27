@@ -1,0 +1,7 @@
+C:\Users\ramse\Desktop\Veri Yapıları\4-) Class\bin\Debug\4-) Class.exe.config
+C:\Users\ramse\Desktop\Veri Yapıları\4-) Class\bin\Debug\4-) Class.exe
+C:\Users\ramse\Desktop\Veri Yapıları\4-) Class\bin\Debug\4-) Class.pdb
+C:\Users\ramse\Desktop\Veri Yapıları\4-) Class\obj\Debug\4-) Class.csproj.AssemblyReference.cache
+C:\Users\ramse\Desktop\Veri Yapıları\4-) Class\obj\Debug\4-) Class.csproj.CoreCompileInputs.cache
+C:\Users\ramse\Desktop\Veri Yapıları\4-) Class\obj\Debug\4-) Class.exe
+C:\Users\ramse\Desktop\Veri Yapıları\4-) Class\obj\Debug\4-) Class.pdb

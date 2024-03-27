@@ -1,0 +1,7 @@
+C:\Users\ramse\Desktop\Veri Yapıları\14-) Queue(Kuyruk)\bin\Debug\14-) Queue(Kuyruk).exe.config
+C:\Users\ramse\Desktop\Veri Yapıları\14-) Queue(Kuyruk)\bin\Debug\14-) Queue(Kuyruk).exe
+C:\Users\ramse\Desktop\Veri Yapıları\14-) Queue(Kuyruk)\bin\Debug\14-) Queue(Kuyruk).pdb
+C:\Users\ramse\Desktop\Veri Yapıları\14-) Queue(Kuyruk)\obj\Debug\14-) Queue(Kuyruk).csproj.AssemblyReference.cache
+C:\Users\ramse\Desktop\Veri Yapıları\14-) Queue(Kuyruk)\obj\Debug\14-) Queue(Kuyruk).csproj.CoreCompileInputs.cache
+C:\Users\ramse\Desktop\Veri Yapıları\14-) Queue(Kuyruk)\obj\Debug\14-) Queue(Kuyruk).exe
+C:\Users\ramse\Desktop\Veri Yapıları\14-) Queue(Kuyruk)\obj\Debug\14-) Queue(Kuyruk).pdb

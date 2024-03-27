@@ -1,0 +1,7 @@
+C:\Users\ramse\Desktop\Veri Yapıları(Temel Seviye)\19-) SortedDictionary\bin\Debug\19-) SortedDictionary.exe.config
+C:\Users\ramse\Desktop\Veri Yapıları(Temel Seviye)\19-) SortedDictionary\bin\Debug\19-) SortedDictionary.exe
+C:\Users\ramse\Desktop\Veri Yapıları(Temel Seviye)\19-) SortedDictionary\bin\Debug\19-) SortedDictionary.pdb
+C:\Users\ramse\Desktop\Veri Yapıları(Temel Seviye)\19-) SortedDictionary\obj\Debug\19-) SortedDictionary.csproj.AssemblyReference.cache
+C:\Users\ramse\Desktop\Veri Yapıları(Temel Seviye)\19-) SortedDictionary\obj\Debug\19-) SortedDictionary.csproj.CoreCompileInputs.cache
+C:\Users\ramse\Desktop\Veri Yapıları(Temel Seviye)\19-) SortedDictionary\obj\Debug\19-) SortedDictionary.exe
+C:\Users\ramse\Desktop\Veri Yapıları(Temel Seviye)\19-) SortedDictionary\obj\Debug\19-) SortedDictionary.pdb

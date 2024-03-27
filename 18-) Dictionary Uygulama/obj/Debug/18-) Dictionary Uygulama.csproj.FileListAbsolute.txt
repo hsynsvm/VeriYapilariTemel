@@ -1,0 +1,7 @@
+C:\Users\ramse\Desktop\Veri Yapıları\18-) Dictionary Uygulama\bin\Debug\18-) Dictionary Uygulama.exe.config
+C:\Users\ramse\Desktop\Veri Yapıları\18-) Dictionary Uygulama\bin\Debug\18-) Dictionary Uygulama.exe
+C:\Users\ramse\Desktop\Veri Yapıları\18-) Dictionary Uygulama\bin\Debug\18-) Dictionary Uygulama.pdb
+C:\Users\ramse\Desktop\Veri Yapıları\18-) Dictionary Uygulama\obj\Debug\18-) Dictionary Uygulama.csproj.AssemblyReference.cache
+C:\Users\ramse\Desktop\Veri Yapıları\18-) Dictionary Uygulama\obj\Debug\18-) Dictionary Uygulama.csproj.CoreCompileInputs.cache
+C:\Users\ramse\Desktop\Veri Yapıları\18-) Dictionary Uygulama\obj\Debug\18-) Dictionary Uygulama.exe
+C:\Users\ramse\Desktop\Veri Yapıları\18-) Dictionary Uygulama\obj\Debug\18-) Dictionary Uygulama.pdb

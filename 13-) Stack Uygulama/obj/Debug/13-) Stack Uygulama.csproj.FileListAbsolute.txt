@@ -1,0 +1,7 @@
+C:\Users\ramse\Desktop\Veri Yapıları\13-) Stack Uygulama\bin\Debug\13-) Stack Uygulama.exe.config
+C:\Users\ramse\Desktop\Veri Yapıları\13-) Stack Uygulama\bin\Debug\13-) Stack Uygulama.exe
+C:\Users\ramse\Desktop\Veri Yapıları\13-) Stack Uygulama\bin\Debug\13-) Stack Uygulama.pdb
+C:\Users\ramse\Desktop\Veri Yapıları\13-) Stack Uygulama\obj\Debug\13-) Stack Uygulama.csproj.AssemblyReference.cache
+C:\Users\ramse\Desktop\Veri Yapıları\13-) Stack Uygulama\obj\Debug\13-) Stack Uygulama.csproj.CoreCompileInputs.cache
+C:\Users\ramse\Desktop\Veri Yapıları\13-) Stack Uygulama\obj\Debug\13-) Stack Uygulama.exe
+C:\Users\ramse\Desktop\Veri Yapıları\13-) Stack Uygulama\obj\Debug\13-) Stack Uygulama.pdb

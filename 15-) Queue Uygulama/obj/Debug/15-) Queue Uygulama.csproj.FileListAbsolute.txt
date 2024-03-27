@@ -1,0 +1,7 @@
+C:\Users\ramse\Desktop\Veri Yapıları\15-) Queue Uygulama\bin\Debug\15-) Queue Uygulama.exe.config
+C:\Users\ramse\Desktop\Veri Yapıları\15-) Queue Uygulama\bin\Debug\15-) Queue Uygulama.exe
+C:\Users\ramse\Desktop\Veri Yapıları\15-) Queue Uygulama\bin\Debug\15-) Queue Uygulama.pdb
+C:\Users\ramse\Desktop\Veri Yapıları\15-) Queue Uygulama\obj\Debug\15-) Queue Uygulama.csproj.AssemblyReference.cache
+C:\Users\ramse\Desktop\Veri Yapıları\15-) Queue Uygulama\obj\Debug\15-) Queue Uygulama.csproj.CoreCompileInputs.cache
+C:\Users\ramse\Desktop\Veri Yapıları\15-) Queue Uygulama\obj\Debug\15-) Queue Uygulama.exe
+C:\Users\ramse\Desktop\Veri Yapıları\15-) Queue Uygulama\obj\Debug\15-) Queue Uygulama.pdb

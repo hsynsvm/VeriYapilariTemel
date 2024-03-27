@@ -1,0 +1,7 @@
+C:\Users\ramse\Desktop\Veri Yapıları\2-) Struct\bin\Debug\2-) Struct.exe.config
+C:\Users\ramse\Desktop\Veri Yapıları\2-) Struct\bin\Debug\2-) Struct.exe
+C:\Users\ramse\Desktop\Veri Yapıları\2-) Struct\bin\Debug\2-) Struct.pdb
+C:\Users\ramse\Desktop\Veri Yapıları\2-) Struct\obj\Debug\2-) Struct.csproj.AssemblyReference.cache
+C:\Users\ramse\Desktop\Veri Yapıları\2-) Struct\obj\Debug\2-) Struct.csproj.CoreCompileInputs.cache
+C:\Users\ramse\Desktop\Veri Yapıları\2-) Struct\obj\Debug\2-) Struct.exe
+C:\Users\ramse\Desktop\Veri Yapıları\2-) Struct\obj\Debug\2-) Struct.pdb

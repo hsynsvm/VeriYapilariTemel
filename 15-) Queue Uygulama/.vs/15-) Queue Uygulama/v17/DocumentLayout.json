@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ramse\\Desktop\\Veri Yap\u0131lar\u0131\\15-) Queue Uygulama\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{665D2302-C307-4219-A910-4029F26AB6A6}|15-) Queue Uygulama.csproj|c:\\users\\ramse\\desktop\\veri yap\u0131lar\u0131\\15-) queue uygulama\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{665D2302-C307-4219-A910-4029F26AB6A6}|15-) Queue Uygulama.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ramse\\Desktop\\Veri Yap\u0131lar\u0131\\15-) Queue Uygulama\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ramse\\Desktop\\Veri Yap\u0131lar\u0131\\15-) Queue Uygulama\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwDAAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T10:33:05.525Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

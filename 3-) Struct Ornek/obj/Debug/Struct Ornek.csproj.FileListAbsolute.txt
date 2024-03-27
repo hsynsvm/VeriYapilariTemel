@@ -1,0 +1,7 @@
+C:\Users\ramse\Desktop\Veri Yapıları\Struct Ornek\bin\Debug\Struct Ornek.exe.config
+C:\Users\ramse\Desktop\Veri Yapıları\Struct Ornek\bin\Debug\Struct Ornek.exe
+C:\Users\ramse\Desktop\Veri Yapıları\Struct Ornek\bin\Debug\Struct Ornek.pdb
+C:\Users\ramse\Desktop\Veri Yapıları\Struct Ornek\obj\Debug\Struct Ornek.csproj.AssemblyReference.cache
+C:\Users\ramse\Desktop\Veri Yapıları\Struct Ornek\obj\Debug\Struct Ornek.csproj.CoreCompileInputs.cache
+C:\Users\ramse\Desktop\Veri Yapıları\Struct Ornek\obj\Debug\Struct Ornek.exe
+C:\Users\ramse\Desktop\Veri Yapıları\Struct Ornek\obj\Debug\Struct Ornek.pdb

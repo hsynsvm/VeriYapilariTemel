@@ -1,0 +1,7 @@
+C:\Users\ramse\Desktop\Veri Yapıları\11-) List\bin\Debug\11-) List.exe.config
+C:\Users\ramse\Desktop\Veri Yapıları\11-) List\bin\Debug\11-) List.exe
+C:\Users\ramse\Desktop\Veri Yapıları\11-) List\bin\Debug\11-) List.pdb
+C:\Users\ramse\Desktop\Veri Yapıları\11-) List\obj\Debug\11-) List.csproj.AssemblyReference.cache
+C:\Users\ramse\Desktop\Veri Yapıları\11-) List\obj\Debug\11-) List.csproj.CoreCompileInputs.cache
+C:\Users\ramse\Desktop\Veri Yapıları\11-) List\obj\Debug\11-) List.exe
+C:\Users\ramse\Desktop\Veri Yapıları\11-) List\obj\Debug\11-) List.pdb

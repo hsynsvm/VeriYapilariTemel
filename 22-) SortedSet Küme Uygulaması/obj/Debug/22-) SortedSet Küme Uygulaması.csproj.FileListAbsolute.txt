@@ -1,0 +1,7 @@
+C:\Users\ramse\Desktop\Veri Yapıları(Temel Seviye)\22-) SortedSet Küme Uygulaması\bin\Debug\22-) SortedSet Küme Uygulaması.exe.config
+C:\Users\ramse\Desktop\Veri Yapıları(Temel Seviye)\22-) SortedSet Küme Uygulaması\bin\Debug\22-) SortedSet Küme Uygulaması.exe
+C:\Users\ramse\Desktop\Veri Yapıları(Temel Seviye)\22-) SortedSet Küme Uygulaması\bin\Debug\22-) SortedSet Küme Uygulaması.pdb
+C:\Users\ramse\Desktop\Veri Yapıları(Temel Seviye)\22-) SortedSet Küme Uygulaması\obj\Debug\22-) SortedSet Küme Uygulaması.csproj.AssemblyReference.cache
+C:\Users\ramse\Desktop\Veri Yapıları(Temel Seviye)\22-) SortedSet Küme Uygulaması\obj\Debug\22-) SortedSet Küme Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\ramse\Desktop\Veri Yapıları(Temel Seviye)\22-) SortedSet Küme Uygulaması\obj\Debug\22-) SortedSet Küme Uygulaması.exe
+C:\Users\ramse\Desktop\Veri Yapıları(Temel Seviye)\22-) SortedSet Küme Uygulaması\obj\Debug\22-) SortedSet Küme Uygulaması.pdb

@@ -1,0 +1,7 @@
+C:\Users\ramse\Desktop\Veri Yapıları\12-) Stack(Yığın)\bin\Debug\12-) Stack(Yığın).exe.config
+C:\Users\ramse\Desktop\Veri Yapıları\12-) Stack(Yığın)\bin\Debug\12-) Stack(Yığın).exe
+C:\Users\ramse\Desktop\Veri Yapıları\12-) Stack(Yığın)\bin\Debug\12-) Stack(Yığın).pdb
+C:\Users\ramse\Desktop\Veri Yapıları\12-) Stack(Yığın)\obj\Debug\12-) Stack(Yığın).csproj.AssemblyReference.cache
+C:\Users\ramse\Desktop\Veri Yapıları\12-) Stack(Yığın)\obj\Debug\12-) Stack(Yığın).csproj.CoreCompileInputs.cache
+C:\Users\ramse\Desktop\Veri Yapıları\12-) Stack(Yığın)\obj\Debug\12-) Stack(Yığın).exe
+C:\Users\ramse\Desktop\Veri Yapıları\12-) Stack(Yığın)\obj\Debug\12-) Stack(Yığın).pdb

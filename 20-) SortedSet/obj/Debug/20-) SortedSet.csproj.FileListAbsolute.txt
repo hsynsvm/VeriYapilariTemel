@@ -1,0 +1,7 @@
+C:\Users\ramse\Desktop\Veri Yapıları(Temel Seviye)\20-) SortedSet\bin\Debug\20-) SortedSet.exe.config
+C:\Users\ramse\Desktop\Veri Yapıları(Temel Seviye)\20-) SortedSet\bin\Debug\20-) SortedSet.exe
+C:\Users\ramse\Desktop\Veri Yapıları(Temel Seviye)\20-) SortedSet\bin\Debug\20-) SortedSet.pdb
+C:\Users\ramse\Desktop\Veri Yapıları(Temel Seviye)\20-) SortedSet\obj\Debug\20-) SortedSet.csproj.AssemblyReference.cache
+C:\Users\ramse\Desktop\Veri Yapıları(Temel Seviye)\20-) SortedSet\obj\Debug\20-) SortedSet.csproj.CoreCompileInputs.cache
+C:\Users\ramse\Desktop\Veri Yapıları(Temel Seviye)\20-) SortedSet\obj\Debug\20-) SortedSet.exe
+C:\Users\ramse\Desktop\Veri Yapıları(Temel Seviye)\20-) SortedSet\obj\Debug\20-) SortedSet.pdb

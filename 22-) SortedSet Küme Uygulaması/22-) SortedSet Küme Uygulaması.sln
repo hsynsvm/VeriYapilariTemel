@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34607.79
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "22-) SortedSet Küme Uygulaması", "22-) SortedSet Küme Uygulaması.csproj", "{0133F829-C353-4D9E-A72E-8F14F89B4955}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0133F829-C353-4D9E-A72E-8F14F89B4955}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0133F829-C353-4D9E-A72E-8F14F89B4955}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0133F829-C353-4D9E-A72E-8F14F89B4955}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0133F829-C353-4D9E-A72E-8F14F89B4955}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {36D72C72-1427-4DB5-8711-AD8B9E8E1332}
+	EndGlobalSection
+EndGlobal
